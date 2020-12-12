@@ -81,7 +81,6 @@
     "description": "Metanyx is leading Staking Validator",
     "logo": "io1gafy2msqmmmqyhrhk4dg3ghc59cplyhekyyu26.png",
     "type": "xrc20",
-    "symbol": "METX",
     "decimals": 18
   },
   "io13z9y0kqcgsmke00xwdalcup2zz3pwhuhexd22e": {
@@ -107,5 +106,13 @@
     "type": "xrc721",
     "symbol": "GFC",
     "image_urls": ["https://s3-ap-northeast-1.amazonaws.com/cat.gamefantasy.com/cat.png"]
+  },
+  "io1nrvpfgks5glmqefj943khkpj7f50n08c07a2ts": {
+    "name": "Excellium",
+    "description": "Excellium (EXE) is a fast XRC20 token.",
+    "logo": "io1nrvpfgks5glmqefj943khkpj7f50n08c07a2ts.png",
+    "type": "xrc20",
+    "symbol": "EXE",
+    "decimals": 8
   }
 }
